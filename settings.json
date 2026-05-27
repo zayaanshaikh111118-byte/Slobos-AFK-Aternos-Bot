@@ -8,7 +8,7 @@
   "server": {
     "ip": "balloonMC7.aternos.me",
     "port": 16565,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
